@@ -1,0 +1,10 @@
+{
+  "name": "venice-x402",
+  "version": "1.0.0",
+  "description": "Venice x402 top-up helper for vvv-auto-funder",
+  "type": "module",
+  "dependencies": {
+    "ethers": "^6.17.0",
+    "x402": "^1.2.0"
+  }
+}
